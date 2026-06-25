@@ -21,7 +21,7 @@ The dashboard helps businesses understand sales trends, identify high-performing
 
 # Dashboard Preview
 
-![Sales Dashboard](screenshots/dashboard_overview.png)
+![Sales Dashboard](dashboard_overview.png)
 
 ---
 
